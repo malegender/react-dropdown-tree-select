@@ -26,6 +26,10 @@
 
 A lightweight and fast control to render a select component that can display hierarchical tree data. In addition, the control shows the selection in pills and allows user to search the options for quick filtering and selection. Also supports displaying partially selected nodes.
 
+## Difference with react-dropdown-tree-select-data
+
+Property `data` is reactive
+
 ## Table of Contents
 
 - [Screenshot](#screenshot)
