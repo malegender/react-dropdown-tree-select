@@ -6,7 +6,7 @@ const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer')
 
 module.exports = {
   devtool: 'source-map',
-  entry: { 'react-dropdown-tree-select': './src/index.js' },
+  entry: { 'react-dropdown-tree-select-data': './src/index.js' },
   output: {
     path: path.join(__dirname, 'dist'),
     filename: '[name].js',
